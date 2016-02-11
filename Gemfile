@@ -12,4 +12,4 @@ gem 'ruboty-slack_rtm'
 gem 'ruboty-echo_to'
 gem 'ruboty-calendar_alert', github: 'mallowlabs/ruboty-calendar_alert'
 gem 'ruboty-echo'
-gem "toggl" # togglで利用できる
+gem "ruboty-toggl", github:'iida-hayato/ruboty-toggl'
