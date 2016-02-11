@@ -1,13 +1,4 @@
 GIT
-  remote: git://github.com/iida-hayato/ruboty-toggl.git
-  revision: 8f7b64fd3476ab852049c6a1a85f88b7fe55421d
-  specs:
-    ruboty-toggl (0.0.1)
-      awesome_print
-      ruboty
-      togglv8
-
-GIT
   remote: git://github.com/mallowlabs/ruboty-calendar_alert.git
   revision: 4795921becbdf0600015a7a4ac3b5484051239ab
   specs:
@@ -87,6 +78,10 @@ GEM
       ruboty (>= 1.1.4)
       slack-api (~> 1.0.0)
       slack-rtmapi (~> 1.0.0.rc4)
+    ruboty-toggl (0.0.1)
+      awesome_print
+      ruboty
+      togglv8
     sawyer (0.6.0)
       addressable (~> 2.3.5)
       faraday (~> 0.8, < 0.10)
@@ -127,7 +122,7 @@ DEPENDENCIES
   ruboty-redis
   ruboty-slack
   ruboty-slack_rtm
-  ruboty-toggl!
+  ruboty-toggl
 
 BUNDLED WITH
    1.10.6
