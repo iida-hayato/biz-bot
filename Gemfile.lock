@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/iida-hayato/ruboty-toggl.git
-  revision: 30969ff832ab907aa80bc40baf642d46797288eb
+  revision: 8f7b64fd3476ab852049c6a1a85f88b7fe55421d
   specs:
     ruboty-toggl (0.0.1)
       awesome_print
